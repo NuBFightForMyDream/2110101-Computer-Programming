@@ -24,4 +24,5 @@
 - Once I've taken Grader #1 , I got a score like this . But with my fighting spirit and recommendations from Aj.Kiang & PP TAs & Everyone , I've overcome the fear and I got this grade.
 - So, Keep fighting whenever you're burned out , there's always hope.
 - [From this 😭😭😭](https://github.com/NuBFightForCP51Again/2110101-Computer-Programming/blob/main/101_Others/Most%20failure%20moments%20in%20my%20life%20ever.png)
+- 
 - [To this 😁😁😁](https://github.com/NuBFightForCP51Again/2110101-Computer-Programming/blob/main/101_Others/COMP%20PROG%20A%20Di%20Wa.png)
