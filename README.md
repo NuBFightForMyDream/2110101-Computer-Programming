@@ -5,6 +5,7 @@
 
 ## Lecture
 [Python 101 By SPJ](https://www.cp.eng.chula.ac.th/~somchai/python101/index.html)
+
 [Github P'Bloom](https://github.com/reisenx/2110101-COM-PROG)
 
 ## Grader Checklist
