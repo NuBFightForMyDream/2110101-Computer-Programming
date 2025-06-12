@@ -4,7 +4,7 @@
 ## Course Syllabus
 [2024 T1](https://mycourseville-default.s3.ap-southeast-1.amazonaws.com/useruploaded_course_files/2024_1/56459/materials/Syllabus_2110101_2024s1_Mali-5207-17229924171026.pdf)
 
-## Lecture
+## Lecture (Recommended learning this before doing exercises)
 [Python 101 By SPJ](https://www.cp.eng.chula.ac.th/~somchai/python101/index.html)
 
 [Github P'Bloom](https://github.com/reisenx/2110101-COM-PROG)
@@ -24,4 +24,4 @@
 - Once I've taken Grader #1 , I got a score like this . But with my fighting spirit and recommendations from Aj.Kiang & PP TAs & Everyone , I've overcome the fear and I got this grade.
 - So, Keep fighting whenever you're burned out , there's always hope.
 - ![From this](https://drive.google.com/file/d/1mnjgM7-D-0gO57gJWVbsVjNb3MMxYkRq/view?usp=drive_link)
-![ -> To this](101_Others/COMP PROG A Di Wa.png)
+![ -> To this](https://github.com/NuBFightForCP51Again/2110101-Computer-Programming/blob/main/101_Others/COMP%20PROG%20A%20Di%20Wa.png)
