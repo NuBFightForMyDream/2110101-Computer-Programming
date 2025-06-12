@@ -1,6 +1,19 @@
-# 2110101 COMP PROG By Nine #108
-Course Syllabus
-[2024 T1] (https://mycourseville-default.s3.ap-southeast-1.amazonaws.com/useruploaded_course_files/2024_1/56459/materials/Syllabus_2110101_2024s1_Mali-5207-17229924171026.pdf)
-- Lecture
-- Grader Problems
-[Visit OpenAI](https://openai.com)
+# 2110101 COMP PROG By Nine #108 (2024 T1)
+
+## Course Syllabus
+[2024 T1](https://mycourseville-default.s3.ap-southeast-1.amazonaws.com/useruploaded_course_files/2024_1/56459/materials/Syllabus_2110101_2024s1_Mali-5207-17229924171026.pdf)
+
+## Lecture
+[Python 101 By SPJ](https://www.cp.eng.chula.ac.th/~somchai/python101/index.html)
+[Github P'Bloom](https://github.com/reisenx/2110101-COM-PROG)
+
+## Grader Checklist
+
+
+## Overview 
+  - Grader Problems (ipynb) from Lecture 1 to 12 (Lecture 99 Recurrences included)
+  - Past papers Exam 2025 For Intania 109++ (If you want more problems , Go find in [Github P'Bloom](https://github.com/reisenx/2110101-COM-PROG) instead)
+  - Some of more Challenging Problems (From [COMP PROG Labbook](https://www.cp.eng.chula.ac.th/books/wp-content/uploads/sites/5/2022/01/python101_labbook_v1.0.1.pdf))
+  - Homework & Assignments Since Intania 104 (2020 - 2023)
+  - Lecture from Sec 1 , 4 , 8 (2024 T1)
+  - (Optional) Workshop from Section of Computer Engineering (6 Labs)
