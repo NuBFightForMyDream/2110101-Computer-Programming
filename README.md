@@ -1,4 +1,6 @@
 # 2110101 COMP PROG By Nine #108 (2024 T1)
+- This subject is held for 1st year Engineering students (MUST HAVE TO ENROLL) , So do your best to get A naja
+
 ## Course Syllabus
 [2024 T1](https://mycourseville-default.s3.ap-southeast-1.amazonaws.com/useruploaded_course_files/2024_1/56459/materials/Syllabus_2110101_2024s1_Mali-5207-17229924171026.pdf)
 
@@ -17,3 +19,9 @@
   - Homework & Assignments Since Intania 104 (2020 - 2023)
   - Lecture from Sec 1 , 4 , 8 (2024 T1)
   - (Optional) Workshop from Section of Computer Engineering (6 Labs)
+
+## Inspiration
+- Once I've taken Grader #1 , I got a score like this . But with my fighting spirit and recommendations from Aj.Kiang & PP TAs & Everyone , I've overcome the fear and I got this grade.
+- So, Keep fighting whenever you're burned out , there's always hope.
+![From this](C:/Users/Nine/Downloads/COMP PROG A Di Wa.png)
+![ -> to this](images/example.png)
