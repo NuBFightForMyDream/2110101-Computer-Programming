@@ -3,6 +3,7 @@
 ## Grader Problems List (Sheets)
 
 ## Overview
+  - Lecture 0 : Print Command
   - Lecture 1 : Data Type & Expression
   - Lecture 2 : String & List
   - Lecture 3 : Condition
