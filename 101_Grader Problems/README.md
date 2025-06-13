@@ -19,7 +19,7 @@
   - Lecture 99 : Recurrences (Optional)
 
 ## Grader ChecklistLecture 1 : Introduction	Progress %	90.91
-104_00_11 Hello World	Easy (1 ⭐)	TRUE
+|| 104_00_11 Hello World	|| Easy (1 ⭐)	|| TRUE||
 104_01_01 Expression Ver.1	Easy (1 ⭐)	TRUE
 104_01_02 Body Surface Area	Easy (1 ⭐)	TRUE
 104_01_03 Quadratic Root	Easy (1 ⭐)	TRUE
