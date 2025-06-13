@@ -15,6 +15,7 @@
   - Lecture 10 : Tuple , Set , Dictionary
   - Lecture 11 : NumPy
   - Lecture 12 : Class & Objects
+  - Lecture 99 : Recurrences (Optional)
 
 ## Grader Checklist
 [Via this link , Don't use it for commercials](https://docs.google.com/spreadsheets/d/1Lnr0fJUAuTAKb0WXEis1gX0B1XdrFbnvktUbIbZEKAQ/edit?usp=sharing)
