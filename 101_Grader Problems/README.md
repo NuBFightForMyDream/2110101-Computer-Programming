@@ -16,8 +16,6 @@
   - Lecture 11 : NumPy
   - Lecture 12 : Class & Objects
 
-[Github P'Bloom](https://github.com/reisenx/2110101-COM-PROG)
-
 ## Grader Checklist
 [Via this link , Don't use it for commercials](https://docs.google.com/spreadsheets/d/1Lnr0fJUAuTAKb0WXEis1gX0B1XdrFbnvktUbIbZEKAQ/edit?usp=sharing)
 
