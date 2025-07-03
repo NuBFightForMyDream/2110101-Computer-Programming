@@ -5,13 +5,17 @@
 - Process : ไล่เช็ค if ไปทีละค่า เพื่อหา `min (m1)` และ `max (m2)`
 - Output : รวมค่า Sum จากสูตร `s = ทั้งหมด - min - max = (d1 + d2 + d3 + d4 + d5 + d6) - (m1 + m2)` แล้วส่งค่า s ออกมา
    
-### 2024_T3_Q2_A0 : 
+### 2024_T3_Q2_A0 : Interest Rate (1.5 Star)
+- Input : รับค่า `principal (เงินต้น)` เพื่อจะคำนวณดอกเบี้ยทบต้น
+- Process : ไล่เช็ค if ไปทีละค่า เพื่อหา `min (m1)` และ `max (m2)`
+- Output : รวมค่า Sum จากสูตร `s = ทั้งหมด - min - max = (d1 + d2 + d3 + d4 + d5 + d6) - (m1 + m2)` แล้วส่งค่า s ออกมา
 
+### 2024_T3_Q3_A0 : Total Card Value (1.5 Star)
+- Input : รับค่า input เข้ามา 6 ตัวเเปร `d1 , d2 , d3 , d4 , d5 , d6`
+- Process : ไล่เช็ค if ไปทีละค่า เพื่อหา `min (m1)` และ `max (m2)`
+- Output : รวมค่า Sum จากสูตร `s = ทั้งหมด - min - max = (d1 + d2 + d3 + d4 + d5 + d6) - (m1 + m2)` แล้วส่งค่า s ออกมา
 
-### 2024_T3_Q3_A0 
-
-
-### 2024_T3_Q4_A0 
+### 2024_T3_Q4_A0 : Average Grade (1.5 Star)
 
 
 ### 2024_T3_Q5_A0 
