@@ -5,6 +5,7 @@
 [Via this link , Don't use it for commercials](https://docs.google.com/spreadsheets/d/1Lnr0fJUAuTAKb0WXEis1gX0B1XdrFbnvktUbIbZEKAQ/edit?gid=663663241#gid=663663241)
 
 ## Overview
+Note : มีบางข้อที่อาจจะยังไม่ได้ทำ เนื่องจากเจ้าของ Repo ทำไม่ได้ TwT + อาจไม่มีเวลาทำ ยังไงก็ตามเดี๋ยวจะมาอัพเดทให้ตอนเป็น TA นะครับ :D
   - Lecture 0 : Print Command
   - Lecture 1 : Data Type & Expression
   - Lecture 2 : String & List
