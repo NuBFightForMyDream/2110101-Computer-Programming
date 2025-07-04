@@ -1,4 +1,12 @@
 # 2110101 COMP PROG By Nine #108 (2024 T1)
+
+## Contributors
+
+Thanks to these amazing people:
+
+<a href="https://github.com/username1"><img src="https://avatars.githubusercontent.com/username1" width="50" /></a>
+<a href="https://github.com/username2"><img src="https://avatars.githubusercontent.com/username2" width="50" /></a>
+
 ![COMP PROG LOGO](https://github.com/NuBFightForCP51Again/2110101-Computer-Programming/blob/main/101_Others/comp%20prog.png)
 - This subject is held for 1st year Engineering students (MUST HAVE TO ENROLL) , So do your best to get A naja (Don't forget that PP TAs can help you naa , ask them)
 
