@@ -1,0 +1,66 @@
+# 2567_3_Q1_A2 Boy Scout : 5 Testcases (20% Each)
+
+Testcases #1
+In :
+
+A B C D E F G H
+3
+Green
+Yellow
+Blue
+A B C D E F G H
+
+Out : 
+Green Green Green Yellow Yellow Yellow Blue Blue
+
+Testcases #2
+In : 
+
+A B C D E F G H
+3
+Green
+Yellow
+Blue
+A C E G
+
+Out : 
+Green Green Yellow Blue
+
+Testcases #3
+In : 
+
+A B C D E F G H
+2
+Green
+Yellow
+Blue
+Pink
+A B C D E F G H
+
+Out :
+Green Green Yellow Yellow Blue Blue Pink Pink
+
+Testcases #4
+In :
+
+A B C D E F G H
+4
+Green
+Yellow
+A C E G
+
+Out : 
+Green Green Yellow Yellow
+
+Testcases #5
+In : 
+
+A B C D E F G H
+10
+Red
+A C E G
+
+Out : 
+
+Red Red Red Red
+
