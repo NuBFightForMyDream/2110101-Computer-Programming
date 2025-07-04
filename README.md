@@ -3,6 +3,9 @@
 ![COMP PROG LOGO](https://github.com/NuBFightForCP51Again/2110101-Computer-Programming/blob/main/101_Others/comp%20prog.png)
 - This subject is held for 1st year Engineering students (MUST HAVE TO ENROLL) , So do your best to get A naja (Don't forget that PP TAs can help you naa , ask them)
 
+## Contributors
+- 6730084521 Chatrphol Ovanonchai (Main Contributors)
+  
 ## Course Syllabus
 [2024 T1](https://mycourseville-default.s3.ap-southeast-1.amazonaws.com/useruploaded_course_files/2024_1/56459/materials/Syllabus_2110101_2024s1_Mali-5207-17229924171026.pdf)
 
