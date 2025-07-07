@@ -6,7 +6,7 @@
 - รหัสโจทย์ของเเต่บะข้อจะอยู่ในรูป `2567_3_Qn_Xn` คือเป็นโจทย์ของปี 2567 เทอมฤดูร้อน Quiz 1-6 ข้อ A/B/C , 1-2
 
 ### Course Syllabus
-- ดูผ่าน [Link นี้ เป็น Syllabus ของ 2110101 COMP PROG 2024 เทอม Summer]()
+- ดูผ่าน [Link นี้ เป็น Syllabus ของ 2110101 COMP PROG 2024 เทอม Summer](https://mycourseville-default.s3.ap-southeast-1.amazonaws.com/useruploaded_course_files/2024_3/67592/materials/Course_Syllabus_Summer_2024-5207-17490034127137.pdf)
 
 ### รายละเอียดการจัดสอบ
 Note : 
