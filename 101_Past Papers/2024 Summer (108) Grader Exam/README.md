@@ -17,10 +17,24 @@ Note :
   - A2 เป็นข้อโจทย์ปัญหาทั่วไป เนื้อหาจะครอบคลุม String , List , Repetition
  
   - มีสอบ 6 ครั้ง โดยมีโจทย์ตามนี้
+    - A0 Describe Code
+      - 2567_3_Q1_A0 : Get Min-Max Out oof 6 (1.5 Star)
+      - 2567_3_Q2_A0 : Interest Rate (1.5 Star)
+      - 2567_3_Q3_A0 : Total Card Value (1.5 Star)
+      - 2567_3_Q4_A0 : Average Grade (1.5 Star)
+      - 2567_3_Q5_A0 : Move String Righthand (1 Star)
+      - 2567_3_Q6_A0 : 
     - A1 Flowchart
-      - 2567_3_Q1_A1 Flowchart Quiz 1 (1
-      - 2567_3_Q2_A1 Flowchart Quiz 2
-      - 2567_3_Q3_A1 Flowchart Quiz 3
-      - 2567_3_Q4_A1 Flowchart Quiz 4
-      - 2567_3_Q5_A1 Flowchart Quiz 5
-      - 2567_3_Q6_A1 Flowchart Quiz 6
+      - 2567_3_Q1_A1 : Flowchart Quiz 1 (1.5 Star)
+      - 2567_3_Q2_A1 : Flowchart Quiz 2 (1.5 Star)
+      - 2567_3_Q3_A1 : Flowchart Quiz 3 (1.5 Star)
+      - 2567_3_Q4_A1 : Flowchart Quiz 4 (1.5 Star)
+      - 2567_3_Q5_A1 : Flowchart Quiz 5 (1.5 Star)
+      - 2567_3_Q6_A1 : Flowchart Quiz 6 (1.5 Star)
+    - A2 Problem Solving
+      - 2567_3_Q1_A2 : Boy Scout (2 Star)
+      - 2567_3_Q2_A2 : Planting Plan (1.5 Star)
+      - 2567_3_Q3_A2 : Conveyor Belt (1.5 Star)
+      - 2567_3_Q4_A2 : Computer Price (1.5 Star)
+      - 2567_3_Q5_A2 : Max Total Component Values (1 Star)
+      - 2567_3_Q6_A2 : 
