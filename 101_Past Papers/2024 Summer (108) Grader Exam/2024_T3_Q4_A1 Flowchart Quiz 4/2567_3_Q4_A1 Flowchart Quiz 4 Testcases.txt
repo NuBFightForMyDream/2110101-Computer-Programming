@@ -1,0 +1,30 @@
+# 2567_3_Q4_A1 Flowchart Quiz 4 : 7 Testcases (14.14% Each)
+
+Testcases #1
+In : 1 3 5 7
+Out : 4.0
+
+Testcases #2
+In : 13 14 15 12
+Out : 12 13 14 15
+
+Testcases #3
+In : 12 14 15 13
+Out : 12 13 14 15
+
+Testcases #4
+In : 13 14 19 16
+Out : 13 14 16 19
+
+Testcases #5
+In : 11 16 12 15
+Out : 12.67
+
+Testcases #6
+In : 13 6 0 0
+Out : 3.61
+
+Testcases #7
+In : 37 6 0 0
+Out : 6.08
+
