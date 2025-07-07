@@ -1,4 +1,4 @@
-## 2024 Summer Grader Examination
+# 2024 Summer Grader Examination
 
 ### Introduction
 - Grader ของเทอม Summer 2024 ตั้งใจให้นิสิตที่ถอน 2110101 Computer Programming ให้ได้เรียนรู้การฝึกเขียนโปรเเกรม โดยตั้งใจให้มีการสอบที่ค้่อนข้างถี่ และ Limit เกรดไว้สูงสุดที่ C
