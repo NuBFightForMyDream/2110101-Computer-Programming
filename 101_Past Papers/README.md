@@ -15,7 +15,7 @@
 - 2566 Grader Examination
   - 2566 T1
   - 2566 T2
-  - 2566 Summer : ไม่มีโจทย์ต้นฉบับที่เป็น PDF เลย ลองไปหาใน [Github P'Bloom แทนได้]()
+  - 2566 Summer : ไม่มีโจทย์ต้นฉบับที่เป็น PDF เลย ลองไปหาใน [Github P'Bloom]เเทนได้(https://www.google.com)
 
 - 2567 Grader Examination
   - 2567 T1
