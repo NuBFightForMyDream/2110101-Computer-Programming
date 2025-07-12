@@ -17,7 +17,7 @@ Note : การจะผ่านขึ้นไปในเเต่ละเ�
  
   - มีสอบ 6 ครั้ง โดยมีโจทย์ตามนี้
     - A0 Describe Code
-      - 2567_3_Q1_A0 : Get Min-Max Out oof 6 (1.5 Star)
+      - 2567_3_Q1_A0 : Get Min-Max Out of 6 (1.5 Star)
       - 2567_3_Q2_A0 : Interest Rate (1.5 Star)
       - 2567_3_Q3_A0 : Total Card Value (1.5 Star)
       - 2567_3_Q4_A0 : Average Grade (1.5 Star)
