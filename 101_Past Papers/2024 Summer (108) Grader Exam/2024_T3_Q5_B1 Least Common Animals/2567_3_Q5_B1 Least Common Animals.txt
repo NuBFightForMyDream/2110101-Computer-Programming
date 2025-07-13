@@ -1,0 +1,121 @@
+# 2567_3_Q5_B1 Least Common Animals : 5 Testcases (20% Each)
+
+Testcases #1 
+In : 
+
+3 6
+dog 1
+cat 1
+monkey 1
+
+Out : 
+
+cat 1
+dog 1
+monkey 1
+
+Testcases #2
+In : 
+
+3 1
+tiger 2
+zebra 2
+duck 2
+
+Out : 
+
+duck 2
+tiger 2
+zebra 2
+
+Testcases #3 
+In : 
+
+5 2
+duck 2
+chicken 2
+buffalo 2
+ant 3
+cat 5
+
+Out : 
+
+buffalo 2
+chicken 2
+duck 2
+
+Testcases #4
+In : 
+
+10 7
+tiger 2
+zebra 2
+duck 7
+dog 1
+monkey 1
+chicken 2
+buffalo 2
+ant 3
+cat 5
+camel 1
+
+
+Out : 
+
+camel 1
+dog 1
+monkey 1
+buffalo 2
+chicken 2
+tiger 2
+zebra 2
+
+Testcases #5
+
+In : 
+
+20 100
+tiger 2
+eagle 4
+shark 2110101
+zebra 12
+kangaroo 12
+cobra 6
+dolphin 101
+duck 70
+snail 6
+dog 11
+elephan 1
+chimpanzee 3
+monkey 15
+chicken 23
+buffalo 2
+ant 3
+mantis 8
+whale 100
+cat 5
+camel 1
+
+
+Out : 
+
+camel 1
+elephan 1
+buffalo 2
+tiger 2
+ant 3
+chimpanzee 3
+eagle 4
+cat 5
+cobra 6
+snail 6
+mantis 8
+dog 11
+kangaroo 12
+zebra 12
+monkey 15
+chicken 23
+duck 70
+whale 100
+dolphin 101
+shark 2110101
