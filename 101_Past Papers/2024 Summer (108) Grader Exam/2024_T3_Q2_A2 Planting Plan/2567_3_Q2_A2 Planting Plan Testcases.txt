@@ -1,0 +1,101 @@
+# 2567_3_Q2_A2 Planting Plan : 10 Testcases (10% Each)
+
+Testcases #1 : 
+
+In : 
+
+1
+1 2 3
+C
+
+Out : C
+
+Testcases #2 : 
+
+In : 
+
+1
+1 2 3
+AA
+
+Out : A
+
+Testcases #3 : 
+
+In : 
+
+2
+1 2 3
+B
+
+Out : B.
+
+Testcases #4 : 
+
+In : 
+
+3
+3 3 3
+AA
+
+Out : A..
+
+Testcases #5 : 
+
+In : 
+
+3
+2 3 1
+AA
+
+Out : A.A
+
+Testcases #6 : 
+
+In : 
+
+3
+3 2 1
+BBB
+
+Out : B.B
+
+Testcases #7 : 
+
+In : 
+
+4
+3 2 1
+BBB
+
+Out : B.B.
+
+Testcases #8 : 
+
+In : 
+
+5
+2 4 1
+CA
+
+Out : C.A..
+
+Testcases #9 : 
+
+In : 
+
+6
+2 5 7
+CA
+
+Out : C.....
+
+Testcases #10 : 
+
+In : 
+
+32
+11 3 1
+CBACCBBCA 
+
+Out : C..B..........A..........CC..B..
