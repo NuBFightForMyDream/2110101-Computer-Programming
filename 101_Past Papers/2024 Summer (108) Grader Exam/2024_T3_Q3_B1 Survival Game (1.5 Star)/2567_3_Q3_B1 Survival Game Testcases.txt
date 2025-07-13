@@ -1,0 +1,21 @@
+# 2567_3_Q3_B1 Survival Game : 5 Testcases (20% Each)
+
+Testcases #1
+In : Alice 20 Bob 30 Charlie 5
+Out : Bob Alice Charlie
+
+Testcases #2
+In : Alice 10 Bob 20 Charlie 10 Bob 5 Alice 5
+Out : Bob Alice Charlie
+
+Testcases #3
+In : Alice 10 Alice 0 Eva 10 Fred 10 Eva 0
+Out : Alice Eva Fred
+
+Testcases #4
+In : Alice 10 Bob 10 
+Out : Alice Bob
+
+Testcases #5
+In : Alice 10 Bob 20 Charlie 15 Dan 10 Alice 10 Bob 30 Charlie 100
+Out : Charlie Bob Alice
