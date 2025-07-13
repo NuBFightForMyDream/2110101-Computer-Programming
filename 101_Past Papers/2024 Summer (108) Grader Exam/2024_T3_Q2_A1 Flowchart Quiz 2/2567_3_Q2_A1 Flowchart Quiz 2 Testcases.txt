@@ -1,0 +1,57 @@
+# 2567_3_Q2_A1 Flowchart Quiz 2 : 10 Testcases (10% Each)
+
+Testcases #1
+In : 4 -1 7 5
+
+Out : 4 -1 5 7
+
+Testcases #2
+In : 9 6 2 7
+
+Out : 9 6 14 7
+
+
+Testcases #3
+In : 7 5 2 7
+
+Out : 7 5 63 7
+
+
+Testcases #4
+In : 8 3 2 7
+
+Out : 8 3 63 7
+
+
+Testcases #5
+In : 8 2 3 7
+
+Out : 8 2 21 7
+
+Testcases #6
+In : 9 1 22 8
+
+Out : 9 1 2 8
+
+Testcases #7
+In : 3 7 6 1
+
+Out : 2 8 6 7
+
+
+Testcases #8
+In : 9 10 2 1
+
+Out : 6 13 2 7
+
+
+Testcases #9
+In : 9 10 5 21
+
+Out : 9 10 5 21
+
+
+Testcases #10
+In : 9 10 5 9
+
+Out : 9 10 5 9
