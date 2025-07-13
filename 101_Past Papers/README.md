@@ -15,12 +15,12 @@
 - 2566 Grader Examination
   - 2566 T1
   - 2566 T2
-  - 2566 Summer : ไม่มีโจทย์ต้นฉบับที่เป็น PDF เลย ลองไปหาใน [Github P'Bloom]เเทนได้(https://www.google.com)
+  - 2566 Summer : ไม่มีโจทย์ต้นฉบับที่เป็น PDF เลย ลองไปหาใน [Github P'Bloom] แทนได้(https://www.google.com)
 
 - 2567 Grader Examination
   - 2567 T1
   - 2567 T2
-  - 2567 Summer : [รายละเอียดอ่านที่นี่]()
+  - 2567 Summer : [รายละเอียด Grader 2567 Summer ](https://github.com/NuBFightForMyDream/2110101-Computer-Programming/blob/main/101_Past%20Papers/2024%20Summer%20(108)%20Grader%20Exam/README.md)
  
 - 2568 Grader Examination
   - 2568 T1
