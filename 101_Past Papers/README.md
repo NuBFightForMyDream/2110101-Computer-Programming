@@ -5,25 +5,14 @@
 [Via this link , Don't use it for commercials](https://docs.google.com/spreadsheets/d/1Lnr0fJUAuTAKb0WXEis1gX0B1XdrFbnvktUbIbZEKAQ/edit?gid=663663241#gid=663663241)
 
 ## Overview
-- ในนี้หลักๆ ก็จะรวมโจทย์การสอบ Grader ของเเต่ละครั้งไว้อะเเหละ (ย้อนหลังตั้งเเต่ 2565 ขึ้นมา) ใครที่สนใจอยากลองทำของปีไหน สามารถเข้าไปอ่าน Description ได้เลยครับ
-
-- 2565 Grader Examination
-  - 2565 T1
-  - 2565 T2
-  - 2565 Summer
+- ในนี้หลักๆ ก็จะรวมโจทย์การสอบ Grader ของเเต่ละครั้งไว้อะเเหละ (ย้อนหลังตั้งเเต่ 2565 ขึ้นมา) ใครอยากจะรู้ว่าปีเก่าๆ เก็บคะเเนน/จัดสอบยังไง สามารถไปอ่านได้ที่ [2110101 COMP PROG Guide By P'Bloom]() ได้เลย ในนี้จะเพิ่มโจทย์สำหรับเทอมที่อาจจะไม่มีใน Github ของพี่บลูมเพิ่ม มีดังนี้
+  - [2567 T2 Withdrawl Section Grader Exam]() !! ไม่มี Grader C นะ อาจารย์ไม่ปล่อย TwT !!
+  - [2567 Summer Grader Exam]() !! รายละเอียดค่อนข้างจุกจิก สามารถอ่านได้จากตรงนี้ []()
  
-- 2566 Grader Examination
-  - 2566 T1
-  - 2566 T2
-  - 2566 Summer : ไม่มีโจทย์ต้นฉบับที่เป็น PDF เลย ลองไปหาใน [Github P'Bloom 2566 Summer](https://github.com/reisenx/2110101-COM-PROG/tree/main/GE-Grader-Examination/G6603-Exam-2566-Summer) แทนได้
+  **Coming Soon**
+  - [2568 T1 Grader Exam (General)]
+  - [2568 T1 Grader Exam (Withdrawl & Survey)]
+  - [2568 T2 Grader Exam (General)]
+  - [2568 T2 Grader Exam (Withdrawl)]
 
-- 2567 Grader Examination
-  - 2567 T1
-  - 2567 T2
-  - 2567 Summer : [รายละเอียด Grader 2567 Summer ](https://github.com/NuBFightForMyDream/2110101-Computer-Programming/blob/main/101_Past%20Papers/2024%20Summer%20(108)%20Grader%20Exam/README.md)
- 
-- 2568 Grader Examination
-  - 2568 T1
-  - 2568 T2
-  - 2568 Summer
  
