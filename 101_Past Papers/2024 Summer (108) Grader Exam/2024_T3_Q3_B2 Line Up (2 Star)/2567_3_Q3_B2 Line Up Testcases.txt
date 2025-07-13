@@ -1,0 +1,55 @@
+# 2567_3_Q3_B2 Line Up (2 Star) : 6 Testcases (16.66% Each)
+
+testcases #1 
+
+In : 
+
+2
+Bill 178 Bob 174 Alice 183 Alex 165 Dan 175 Adam 170 Ann 181 Babe 180
+
+Out : Alice Ann Bob Adam Alex
+
+testcases #2
+
+In : 
+
+2
+Alice 183 Bob 174 Adam 170 Dan 175 Alex 165 Bill 178 Ann 181 Babe 180
+
+Out : Alice Ann
+
+testcases #3
+
+In : 
+
+4
+Alice 183 Bob 174 Adam 170 Dan 175 Bill 178 Alex 165 Ann 181 Babe 180
+
+Out : Alice
+
+testcases #4
+
+In : 
+
+4
+Alice 183 Bill 178 Bob 174 Adam 170 Ann 181 Babe 180 Dan 175 Alex 165
+
+Out : Alice Ann Babe Bill Dan Bob Adam Alex
+
+testcases #5
+
+In : 
+
+2
+Bob 174 Bill 178 Alex 165 Alice 183 Adam 170 Dan 175 Ann 181 Babe 180
+
+Out : None
+
+testcases #6
+
+In : 
+
+4
+Bill 178 Bob 174 Alice 183 Alexa 165 Dan 175 Adam 170 Ann 181 Babe 180
+
+Out :  Alexa
