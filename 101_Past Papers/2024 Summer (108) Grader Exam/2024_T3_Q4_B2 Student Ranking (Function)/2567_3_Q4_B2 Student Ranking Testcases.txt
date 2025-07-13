@@ -1,0 +1,131 @@
+# 2567_3_Q4_B2 Student Ranking (Function) : 10 Testcases (10% Each)
+
+Testcases #1
+In : print(calculate_average([42, 52, 100, 0]));
+Out : 48.5
+
+Testcases #2
+In : print(calculate_average([0, 0, 0, 0]));
+Out : 0.0
+
+Testcases #3
+In : print(type(calculate_average([70, 72, 52, 85])));
+Out : <class 'float'>
+
+Testcases #4
+In : print(get_grade(59.99));
+Out : D+
+
+Testcases #5
+In : print(type(get_grade(66.66)));
+Out : <class 'str'>
+
+Testcases #6
+In : print(process_student_data(['Malee', [70, 70, 70, 69]]));
+Out : ['Malee', 'C+']
+
+Testcases #7
+In : print(type(process_student_data(['Nana', [70, 72, 92, 85]])));
+Out : <class 'list'>
+
+Testcases #8
+In : 
+
+list_of_stu_data=[]
+list_of_stu_data.append(['B',[70,72,92,85]])
+list_of_stu_data.append(['D',[74,71,89,91]])
+list_of_stu_data.append(['C',[78,71,89,91]])
+list_of_stu_data.append(['A',[71,69,75,80]])
+print_students_ranked_by_grades(list_of_stu_data);
+
+Out : 
+
+C A
+D A
+B B+
+A B
+
+Testcases #9
+In : 
+
+list_of_stu_data = []
+list_of_stu_data.append(['AAAA',[0,0,0,0]])
+list_of_stu_data.append(['AAA',[0,0,0,0]])
+list_of_stu_data.append(['AA',[1,2,3,4]])
+list_of_stu_data.append(['AA',[71,72,73,74]])
+list_of_stu_data.append(['AAA',[100,100,100,100]])
+print_students_ranked_by_grades(list_of_stu_data);
+
+Out : 
+
+AAA A
+AA B
+AA F
+AAA F
+AAAA F
+
+Testcases #10
+In : 
+
+list_of_stu_data = []
+list_of_stu_data.append(['A',[59, 58, 57, 56]])
+list_of_stu_data.append(['A',[29, 28, 27, 26]])
+list_of_stu_data.append(['B',[65, 66, 67, 68]])
+list_of_stu_data.append(['C',[0, 15, 55, 1]])
+list_of_stu_data.append(['D',[42, 52, 100, 0]])
+list_of_stu_data.append(['E',[0, 0, 0, 0]])
+list_of_stu_data.append(['F',[89, 88, 87, 86]])
+list_of_stu_data.append(['GG',[80, 80, 80, 80]])
+list_of_stu_data.append(['G',[80, 80, 80, 80]])
+list_of_stu_data.append(['J',[79, 78, 77, 76]])
+list_of_stu_data.append(['H',[75, 75, 75, 75]])
+list_of_stu_data.append(['I',[79.9, 79.9, 79.9, 79.9]])
+list_of_stu_data.append(['K',[74, 73, 72, 71]])
+list_of_stu_data.append(['L',[70, 70, 70, 70]])
+list_of_stu_data.append(['M',[69, 68, 67, 66]])
+list_of_stu_data.append(['N',[65, 65, 65, 65]])
+list_of_stu_data.append(['P',[60, 60, 60, 60]])
+list_of_stu_data.append(['Q',[62, 63, 64, 61]])
+list_of_stu_data.append(['R',[55, 55, 55, 55]])
+list_of_stu_data.append(['S',[58, 58, 58, 58]])
+list_of_stu_data.append(['T',[54, 54, 54, 54]])
+list_of_stu_data.append(['U',[50, 50, 50, 50]])
+list_of_stu_data.append(['V',[90, 90, 0, 0]])
+list_of_stu_data.append(['W',[0, 1, 2, 3]])
+list_of_stu_data.append(['X',[84, 53, 72, 63]])
+list_of_stu_data.append(['Y',[49, 50, 50, 50]])
+list_of_stu_data.append(['B',[100, 100, 100, 100]])
+list_of_stu_data.append(['Z',[100, 100, 100, 100]])
+print_students_ranked_by_grades(list_of_stu_data);
+
+
+Out : 
+
+B A
+F A
+G A
+GG A
+Z A
+H B+
+I B+
+J B+
+K B
+L B
+B C+
+M C+
+N C+
+X C+
+P C
+Q C
+A D+
+R D+
+S D+
+T D
+U D
+A F
+C F
+D F
+E F
+V F
+W F
+Y F
