@@ -1,5 +1,4 @@
-# 2110101 COMP PROG By Nine #108 (2024 T1)
-![This Pic](https://github.com/NuBFightForCP51Again/2110101-Computer-Programming/blob/main/101_Others/comp%20prog.png)
+# 2110101 COMP PROG Grader Examination
 
 ## Grader **Past Papers** Problems List (Sheets)
 [Via this link , Don't use it for commercials](https://docs.google.com/spreadsheets/d/1Lnr0fJUAuTAKb0WXEis1gX0B1XdrFbnvktUbIbZEKAQ/edit?gid=663663241#gid=663663241)
