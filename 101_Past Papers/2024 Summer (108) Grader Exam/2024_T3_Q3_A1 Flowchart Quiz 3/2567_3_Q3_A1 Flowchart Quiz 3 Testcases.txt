@@ -1,0 +1,41 @@
+# 2567_3_Q3_A1 Flowchart Quiz 3 : 10 Testcases (10% Each)
+
+Testcases #1
+In : -2 9 3 1 3
+Out : 2 5 3 1 3
+
+Testcases #2
+In : -4 1 3 9 3
+Out : 0 -2 3 9 3
+
+Testcases #3
+In : -1 2 3 -2 3
+Out : -1 2 3 -2 3
+
+Testcases #4
+In : 1 2 3 -2 3
+Out : 1 -2 3 2 3
+
+Testcases #5
+In : 3 2 3 11 3
+Out : 3 5 3 11 3
+
+Testcases #6
+In : 5 4 3 7 5
+Out : 5 8 4 7 5
+
+Testcases #7
+In : 7 11 9 7 5
+Out : 7 7 11 9 5
+
+Testcases #8
+In : 2 4 6 7 5
+Out : 2 20 6 7 5
+
+Testcases #9
+In : 4 4 4 7 5
+Out : 4 -5 4 7 5
+
+Testcases #10
+In : 6 6 5 -1 5
+Out : 6 1 5 -1 5

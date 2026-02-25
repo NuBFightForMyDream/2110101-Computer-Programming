@@ -1,0 +1,83 @@
+# 2567_3_Q4_B1 Most Common Alphabets : 5 Testcases (20% Each)
+
+Testcases #1 
+In : 
+
+6
+dog
+
+Out : 
+
+d 1
+g 1
+o 1
+
+
+Testcases #2
+In : 
+
+1
+tiger
+
+Out : 
+
+e 1
+g 1
+i 1
+r 1
+t 1
+
+Testcases #3 
+In : 
+
+2
+programming
+
+Out : 
+
+g 2
+m 2
+r 2
+
+Testcases #4
+In : 
+
+7
+i love computer programming
+
+Out : 
+
+m 3
+o 3
+r 3
+e 2
+g 2
+i 2
+p 2
+
+Testcases #5
+
+In : 
+
+100
+chulalongkorn is a university in thailand
+
+Out : 
+
+i 5
+n 5
+a 4
+l 3
+h 2
+o 2
+r 2
+s 2
+t 2
+u 2
+c 1
+d 1
+e 1
+g 1
+k 1
+v 1
+y 1

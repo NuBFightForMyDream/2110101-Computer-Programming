@@ -1,0 +1,56 @@
+# 2567_3_Q4_A2 Computer Price : 5 Testcases (20% Each)
+
+Testcases #1
+In : 
+
+1 2 3 4 5
+301 A,B,C
+302 AB,AC,AD,AE
+303 ABCDE
+END
+
+Out : 302
+
+Testcases #2
+In :
+ 
+10 20 30 40 50
+301 ABCD,ABC,ABCD
+302 BCD,CE,DEB
+303 E,D
+END
+
+Out : 302
+
+Testcases #3
+In : 
+
+5 5 5 5 5
+301 A,B,C,D,E
+302 ABCDE
+303 AB,CD,DE
+END
+
+Out : 303
+
+Testcases #4
+In :
+ 
+3 6 9 12 15
+301 AC,AD,AE
+302 BCD,E,D
+303 ABCDE,ABC,ABC
+END
+
+Out : 303
+
+Testcases #5
+In : 
+
+7 14 21 28 35
+301 A,B,C,D,E
+302 AB,AC,AE,BD,CE
+303 ABCDE,ABCDE,ABCDE
+END
+
+Out : 303

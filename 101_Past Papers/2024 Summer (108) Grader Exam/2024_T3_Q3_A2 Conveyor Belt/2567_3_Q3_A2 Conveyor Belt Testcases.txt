@@ -1,0 +1,124 @@
+# 2567_3_Q5_B1 Least Common Animals : 10 Testcases (10% Each)
+
+Testcases #1 : 
+
+In : 
+
+1 1 1
+K
+
+Out : K
+
+
+Testcases #2 : 
+
+In : 
+
+3 1 2
+DEF
+
+Out : ED.
+
+
+Testcases #3 : 
+
+In : 
+
+4 2 3
+JKLMNO
+
+Out : 
+
+LKJ.
+....
+
+
+Testcases #4 : 
+
+In : 
+
+5 2 3
+JK
+
+Out : 
+
+.KJ..
+.....
+
+Testcases #5 : 
+
+In : 
+
+4 2 5
+JKLMNO
+
+Out :
+ 
+NMLK
+...J
+
+Testcases #6 : 
+
+In : 
+
+3 2 4
+JK
+
+Out : 
+
+..K
+..J
+
+
+Testcases #7 : 
+
+In : 
+
+30 1 28
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+Out : 
+
+..ZYXWVUTSRQPONMLKJIHGFEDCBA..
+
+Testcases #8 : 
+
+In : 
+
+3 4 10
+ABCDEFABCDEF
+
+Out : 
+
+DCB
+EFA
+DCB
+..A
+
+
+Testcases #9 : 
+
+In : 
+
+4 3 14
+ABCDEFABCDEFABCDEF
+
+Out : 
+
+BAFE
+ABCD
+FEDC
+
+Testcases #10 : 
+
+In : 
+
+5 3 11
+AAAAAAAA
+
+Out :
+
+...AA
+AAAAA
+A....
+

@@ -1,0 +1,103 @@
+# 2567_3_Q5_B2 Country Ranking : 5 Testcases (20% Each)
+
+Testcases #1
+In : 
+
+x=fahrenheit_to_celsius(32);print(x, isinstance(x, (float)));
+
+Out : 0.0 True
+
+Testcases #2
+In :
+ 
+x=get_perception(0.1);print(x, isinstance(x, (float)));
+
+Out : cold False
+
+Testcases #3
+In : 
+
+countries_info = []
+countries_info.append(['Thailand',98.6])
+countries_info.append(['Latvia',75.2])
+countries_info.append(['Denmark',70.7])
+countries_info.append(['Finland',-4])
+countries_info.append(['Sweden',20])
+countries_info.append(['Turkey',80])
+print_countries_ranked_by_perception(countries_info);
+
+Out : 
+
+Denmark comfortable
+Latvia comfortable
+Sweden cold
+Turkey hot
+Finland extreme cold
+Thailand extreme hot
+
+Testcases #4
+In :
+ 
+countries_info = []
+countries_info.append(['Desert',111.11])
+print_countries_ranked_by_perception(countries_info);
+
+Out : Desert extreme hot
+
+Testcases #5
+In : 
+
+countries_info = []
+countries_info.append(['Austria', 69.0])
+countries_info.append(['Australia', 86.5])
+countries_info.append(['Afghanistan', 100])
+countries_info.append(['Belgium',39.1])
+countries_info.append(['Brazil',87])
+countries_info.append(['Canada',0.1])
+countries_info.append(['Colombia',85])
+countries_info.append(['Denmark',70.7])
+countries_info.append(['Egypt',86])
+countries_info.append(['Ecuador',87])
+countries_info.append(['Estonia',87.1])
+countries_info.append(['Finland',-4])
+countries_info.append(['Germany',39.1])
+countries_info.append(['Hungary',42])
+countries_info.append(['India',99.99])
+countries_info.append(['Japan',1])
+countries_info.append(['Kuwait',101])
+countries_info.append(['Lithuania',35])
+countries_info.append(['Madagascar',78.9])
+countries_info.append(['Malta',73.8])
+countries_info.append(['North Korea',38])
+countries_info.append(['Oman',85])
+countries_info.append(['Philippines',90])
+countries_info.append(['South Korea',42])
+print_countries_ranked_by_perception(countries_info); 
+
+
+Out : 
+
+Austria comfortable
+Denmark comfortable
+Malta comfortable
+Belgium cold
+Germany cold
+Hungary cold
+Lithuania cold
+North Korea cold
+South Korea cold
+Australia hot
+Brazil hot
+Colombia hot
+Ecuador hot
+Egypt hot
+Estonia hot
+Madagascar hot
+Oman hot
+Philippines hot
+Canada extreme cold
+Finland extreme cold
+Japan extreme cold
+Afghanistan extreme hot
+India extreme hot
+Kuwait extreme hot
