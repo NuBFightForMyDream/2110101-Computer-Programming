@@ -1,0 +1,5 @@
+	
+	วิธีการใช้ Test Cases (Cr. Meen Gr.H #104)
+	1. ให้ copy file จาก folder Test cases ออกมาไว้ใน folder หลัก
+	2. ใน editor บรรทัดสุดท้ายให้พิมว่า exec(open('*****.py').read())  ## '*****' คือชื่อไฟล์ Test cases
+	3. Run
